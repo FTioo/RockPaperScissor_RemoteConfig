@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b7bc8bbb-806f-4979-aecc-ee43533055da\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ChoosingInterval\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 10.0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b7bc8bbb-806f-4979-aecc-ee43533055da\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ChoosingInterval\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 10.0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"cc336289-5869-4a46-9f3f-d0258116a305\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"9471d781-1853-476f-ba7c-6efedb383743\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-11-17T07:31:01Z\",\r\n    \"updatedAt\":
+    \"2022-11-17T07:31:01Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"cc336289-5869-4a46-9f3f-d0258116a305\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"e01bba92-baee-4ea4-baf2-1e6216919133\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2022-11-17T08:51:34Z\",\r\n   
+    \"updatedAt\": \"2022-11-17T08:51:34Z\"\r\n  }\r\n]"
